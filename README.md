@@ -1,6 +1,6 @@
 # Fully Responsive Website 
 
-<h3>Upon landing, all elements smoothly appear in sequential order, accompanied by delightful transition effects. The price section incorporates an engaging effect achieved through the utilization of Swiper Doge, a JavaScript plugin. Menu's visual experience has a seamless transition effect that transforms the bottom of the menu into an arrow shape. Lastly, the website adapts to various screen sizes, ensuring a good viewing experience across devices</h3>
+<p>Upon landing, all elements smoothly appear in sequential order, accompanied by delightful transition effects. The price section incorporates an engaging effect achieved through the utilization of Swiper Doge, a JavaScript plugin. Menu's visual experience has a seamless transition effect that transforms the bottom of the menu into an arrow shape. Lastly, the website adapts to various screen sizes, ensuring a good viewing experience across devices<p>
  
 ![web1](https://github.com/atJrd-Jr/Concept-Website-/assets/121316243/3b439d2e-c9d3-46c3-82e6-c8a64c26952d)
 
